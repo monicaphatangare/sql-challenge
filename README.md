@@ -16,8 +16,6 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
 
-hint
-Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
